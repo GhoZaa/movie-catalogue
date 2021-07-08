@@ -12,6 +12,6 @@
   "rules": {
     "linebreak-style": ["error", "windows"],
     "no-console": "off",
-    "allowAfterSuper": true
+    "no-underscore-dangle": "off"
   }
 }

@@ -1,8 +1,7 @@
 {
-    "editor.fontSize": 15,
-    "terminal.integrated.fontSize": 14,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "workbench.colorTheme": "Sublime Material Theme - Dark",
-    "editor.lineHeight": 22,
-    "editor.wordWrap": "on"
+  "editor.fontSize": 15,
+  "terminal.integrated.fontSize": 14,
+  "workbench.colorTheme": "Sublime Material Theme - Dark",
+  "editor.lineHeight": 22,
+  "editor.wordWrap": "on"
 }
