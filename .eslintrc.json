@@ -13,6 +13,8 @@
     "linebreak-style": ["error", "windows"],
     "no-console": "off",
     "no-underscore-dangle": "off",
-    "no-undef": "off"
+    "no-undef": "off",
+    "consistent-return": "off",
+    "no-prototype-builtins": "off"
   }
 }
